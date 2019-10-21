@@ -15,7 +15,7 @@ configparser==3.5.0
 crontab==0.22.2
 Django==1.11.10
 docutils==0.11
-ecdsa==0.11
+ecdsa==0.13.3
 enum34==1.1.6
 futures==3.0.3
 gyp==0.1
