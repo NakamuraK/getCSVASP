@@ -52,7 +52,7 @@ python-daemon==1.5.2
 pytz==2018.4
 pyxattr==0.5.0
 PyYAML==3.10
-rsa==3.4.1
+rsa==4.1
 selenium==3.13.0
 simplejson==3.6.5
 singledispatch==3.4.0.3
